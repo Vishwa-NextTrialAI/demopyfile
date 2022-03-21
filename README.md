@@ -1,6 +1,6 @@
 # demopyfile
  Python program to check if
-# given number is prime or not
+# given numbers is prime or not
   
 num = 11
   
