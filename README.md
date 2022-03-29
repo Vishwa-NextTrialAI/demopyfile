@@ -24,4 +24,7 @@ if num > 1:
 else:
     print(num, "is not a prime number")
 
+this change is from patch1
+
 this change is made from branch2
+
